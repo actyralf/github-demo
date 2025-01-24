@@ -13,6 +13,12 @@ h1 {
   color: green;
 }
 
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 1em;
+}
+
 footer {
   display: flex;
   justify-content: space-between;
