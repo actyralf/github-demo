@@ -12,3 +12,22 @@ h1 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   color: green;
 }
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+footer ul {
+  display: flex;
+}
+
+footer ul li {
+  list-style: none;
+  padding: 10px;
+}
+
+footer p {
+  padding: 10px;
+}
